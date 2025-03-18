@@ -1,5 +1,5 @@
 
-import { protectedAxiosInstance } from 'helpers/api-calls';
+import { protectedAxiosInstance } from '../../helpers/api-calls';
 import * as types from '../constants/userSettingsConstants';
 
 // Mock API calls (replace with actual endpoints)
